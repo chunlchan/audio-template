@@ -1,16 +1,19 @@
 # audio-template
 
-## Project setup
+Basic template for building web based experiments. Includes three demo sound files. To install, download or clone this repository, cd to the target folder and run
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+Then open a web browser to localhost:8080
+
+
+
+### Deployment
+
+Run the following commands to production ready version and deploy to Firebase
 ```
 npm run build
 firebase init (first time only)
