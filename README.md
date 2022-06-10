@@ -13,12 +13,10 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+firebase init (first time only)
+firebase login
+firebase deploy
+firebase logout
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
