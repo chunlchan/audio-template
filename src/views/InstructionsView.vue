@@ -10,7 +10,7 @@ import router from '@/router';
 export default {
   setup(){
     const next = () => {
-      router.push('/experiment')
+      router.push('/practice')
     }
 
     return {next}
